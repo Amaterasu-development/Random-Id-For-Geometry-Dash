@@ -1,0 +1,23 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#output {
+    font-size: 40px;
+    color: lime;
+}
+#copied {
+    display: none;
+    color: lime;
+}
+#CopyToClipboard {
+    background-color: #ccc;
+    color: #000000;
+    padding: 1%;
+    border: none;
+    border-radius: 5px;
+}
